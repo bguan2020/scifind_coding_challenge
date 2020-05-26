@@ -1,6 +1,6 @@
 ### Coding Challenge ###
 
-This is a coding challenge that will test your React.js and Firebase abilities. Google Firebase is a useful backend tool that we will be using - for this challenge you will not need extensive Firebase experience, just a simple database connection will do. If you feel more comfortable using other online database servers like MongoDB Atlas or SQL-related databases, that is fine too (Firebase will probably be easier though, even if you're new to it). This project should not take more than an afternoon, but you have the week to complete it.
+This is a coding challenge that will test your React.js and Firebase abilities. Google Firebase is a useful backend tool that we will be using - for this challenge you will not need extensive Firebase experience, just a simple database connection will do. If you feel more comfortable using other online database servers like MongoDB Atlas or SQL-related databases, that is fine too (Firebase will probably be easier though, even if you're new to it). This project should not take more than an afternoon, but you have 4 days to complete it.
 
 ![download](https://user-images.githubusercontent.com/43942774/82876787-32359980-9eee-11ea-8632-1e835a682014.png)
 
@@ -20,7 +20,7 @@ Then upload this data as an object "UserProfile" to a Google Firebase server (or
   - Do not worry about how it looks on the front-end. Functionality is what matters.
 
 ### How to Submit Project: ###
-The project is due one week from the receipt of this email. Please email brian@scifind.net with the following information to submit your project:
+The project is due 4 days from the receipt of this email. Please email brian@scifind.net with the following information to submit your project:
 
   1. A URL link to your web application (*Note: Feel free to host this however you like. Some free platforms that help you host your React apps include [Heroku](https://heroku.com/) and [Github](https://github.com/). Consult [this guide](https://medium.com/better-programming/how-to-deploy-your-react-app-to-heroku-aedc28b218ae) on how to deploy to Heroku.*)
   2. A URL link to the Github or Github equivalent with the source code of this project. (*Note: Remember to make it publicly accessible so we can see your awesome work :)*)
