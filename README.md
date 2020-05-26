@@ -3,7 +3,7 @@
 This is a coding challenge that will test your React.js and Firebase abilities. Google Firebase is a useful backend tool that we will be using - for this challenge you will not need extensive Firebase experience, just a simple database connection will do. If you feel more comfortable using other online database servers like MongoDB Atlas or SQL-related databases, that is fine too (Firebase will probably be easier though, even if you're new to it). This project should not take more than an afternoon, but you have the week to complete it.
 
 ![science image]
-(https://unsplash.com/photos/lQGJCMY5qcM.jpeg)
+(http://www.gettyimages.com/detail/748325535)
 
 ### Overview ###
 Create a simple web app that takes the following user information input:
