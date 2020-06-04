@@ -1,6 +1,6 @@
 ### Sci Find Coding Challenge ###
 
-This is a coding challenge that will test your React.js and Firebase abilities. Google Firebase is a useful backend tool that we will be using - for this challenge you will not need extensive Firebase experience, just a simple database connection will do. If you feel more comfortable using other online database servers like MongoDB Atlas or SQL-related databases, that is fine too. This project should take approximately 4-5 hours, but you have 4 days to complete it.
+This is a coding challenge that will test your React.js and Firebase abilities. Google Firebase is a useful backend tool that we will be using - for this challenge you will not need extensive Firebase experience, just a simple database connection will do. If you feel more comfortable using other online database servers like MongoDB Atlas or SQL-related databases, that is fine too. This project should take approximately 4-5 hours, but you have 3 days to complete it.
 
 ![download](https://user-images.githubusercontent.com/43942774/82876787-32359980-9eee-11ea-8632-1e835a682014.png)
 
@@ -27,7 +27,7 @@ Most errors regarding Firebase/firestore has to do with how data is uploaded asy
   - Bonus points for a pretty and non-confusing UI as this website may be used by technically challenged scientists.
 
 ### How to Submit Project: ###
-The project is due 4 days from the receipt of this email. Please email brian@scifind.net with the following information to submit your project:
+The project is due 3 days from the receipt of this email. Please email brian@scifind.net with the following information to submit your project:
 
   1. A URL link to your web application (*Note: Feel free to host this however you like. Some free platforms that help you host your React apps include [Heroku](https://heroku.com/) and [Github](https://github.com/). Consult [this guide](https://medium.com/better-programming/how-to-deploy-your-react-app-to-heroku-aedc28b218ae) on how to deploy to Heroku.*)
   2. A URL link to the Github or Github equivalent with the source code of this project. (*Note: Remember to make it publicly accessible so we can see your awesome work :) *)
