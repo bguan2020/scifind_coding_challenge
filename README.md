@@ -7,7 +7,7 @@ This is a coding challenge that will test your React.js and Firebase abilities. 
 
 ### Overview ###
 Create a simple web app that has two pages: 
-### 1 sign-in page ### that takes the following user information input:
+### 1 sign-in page that takes the following user information input:
 
   - username (string)
   - password (string)
@@ -16,7 +16,7 @@ Create a simple web app that has two pages:
 This should create a user and upload the data into a "user" collection to a Google Firebase server (or server of your choosing). You can use Firebase's authentication software to assist you with securing passwords and userID's, more info [here](https://firebase.google.com/docs/auth), or if you prefer other services like bcrypt feel free to use those as you please.
 
 Upon completing sign-in, you should redirect them to:
-### 1 profile page ### that displays all the user's data.
+### 1 profile page that displays all the relevant user data.
 Username, serviceA, and serviceB should be connected to the database and dynamically rendered/updated upon any changes to the database. You must secure the profile page––Authenticated users should have an option to edit their username and services, while non-authenticated users should be able to view username, serviceA, serviceB, but not edit. In terms of accessing other user profiles, this can just be changing the ```const uid = someValue``` in the javascript manually, saving, and having the profile page re-render with the new UID. No need to implement this functionality into the page. But you must also have something that tracks who is currently logged in, like ```const currentUser ``` (there are ways to do this in Firebase, more info [here](https://firebase.google.com/docs/auth/web/manage-users)), and depending on if ```uid == currentUser```, allow the ability to edit services and username.
 
 ### Be careful!!! ###
