@@ -20,7 +20,7 @@ Upon completing sign-in, you should redirect them to:
 Username, serviceA, and serviceB should be connected to the database and dynamically rendered/updated upon any changes to the database. You must secure the profile page––Authenticated users should have an option to edit their username and services, while non-authenticated users should be able to view username, serviceA, serviceB, but not edit. In terms of accessing other user profiles, this can just be changing the ```const uid = someValue``` in the javascript manually, saving, and having the profile page re-render with the new UID. No need to implement this functionality into the page. But you must also have something that tracks who is currently logged in, like ```const currentUser ``` (there are ways to do this in Firebase, more info [here](https://firebase.google.com/docs/auth/web/manage-users)), and depending on if ```uid == currentUser```, allow the ability to edit services and username.
 
 ### Be careful!!! ###
-Most errors regarding Firebase/firestore has to do with how data is uploaded asynchronously, so pay attention to your "async" and your ".then()" functions. Keep note of issues you encounter; we are especially interested to see how you overcame your mistakes! Mistakes make you who you are!
+Most errors regarding Firebase/firestore has to do with how data is uploaded asynchronously, so pay attention to your "useEffect", "async" and your ".then()" functions. Keep note of issues you encounter; we are especially interested to see how you overcame your mistakes! Mistakes make you who you are!
 
 ### Information ###
   - We suggest using [create-react-app](https://github.com/facebook/create-react-app) to quickly get a React project up and running quickly. 
