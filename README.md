@@ -1,6 +1,6 @@
 ### Sci Find Coding Challenge ###
 
-This is a coding challenge that will test your React.js and Firebase abilities. Google Firebase is a useful backend tool that we will be using - for this challenge you will not need extensive Firebase experience, just a simple database connection will do. If you feel more comfortable using other online database servers like MongoDB Atlas or SQL-related databases, that is fine too. This project should take approximately 4-5 hours, but you have 3 days to complete it.
+This is a coding challenge that will test your React.js and back-end abilities. You may use any back-end database for this (mongodb, firebase, etc.). This project should take approximately 4-5 hours, but you have 3 days to complete it.
 
 ![download](https://user-images.githubusercontent.com/43942774/82876787-32359980-9eee-11ea-8632-1e835a682014.png)
 
